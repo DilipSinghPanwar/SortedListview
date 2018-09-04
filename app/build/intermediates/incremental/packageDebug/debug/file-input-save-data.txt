@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Sep 04 18:08:29 IST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\@DilipWorkspace\\Workspace\\SortedListview\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
